@@ -1,0 +1,133 @@
+@-moz-document domain("brightspace.rug.nl") {
+.d2l-body,
+#d2l_body,
+.d2l-shim {
+    background-color: #121212;
+}
+
+.ddial_o,
+.ddial_o2,
+.d2l-collapsepane-content,
+.d2l-collapsepane-header,
+.d2l-dropdown-content-width {
+    background-color: #202020 !important;
+    background: #202020 !important;
+}
+
+.d2l-datalist-item-content,
+.d2l-dropdown-content-top {
+    background-color: #202020 !important;
+}
+
+#module-description,
+.d2l-typography,
+.module-display,
+.module-inner-container,
+.module-description-body,
+.topic-display,
+body,
+#app,
+#root-wrapper,
+.d2l-textblock {
+    color: #dedede !important;
+    
+}
+
+.module-header {
+    color: white !important;
+}
+
+html {
+    --d2l-color-celestine: #0af;
+    --d2l-color-celestine-minus-1: #0ff;
+    --d2l-color-tungsten: #bbb;
+    --d2l-branding-primary-color: black;
+    --d2l-tabs-background-color: #656565;
+    --d2l-list-item-content-text-color: #dedede;
+    --d2l-dropdown-background-color: #202020 !important;
+}
+
+.d2l-floating-buttons-container {
+    background-color: #77777777 !important;
+}
+
+.d2l-navigation-s-personal-menu-text {
+    color: white;
+}
+
+.topic-box,
+.unit-box,
+.title-container,
+.outline,
+.d2l-enrollment-card-content-flex {
+    background-color: #656565 !important;
+    color: white;
+}
+
+.d2l-card-container,
+d2l-enrollment-card,
+d2l-card:host {
+    background-color: #656565 !important;
+    
+}
+
+.tocRow a {
+    color: #dedede !important;
+}
+
+.tocRow a:hover {
+    background-color: #505050 !important;
+}
+
+.d2l-table > * > tr[header] > th {
+    background-color: #505050 !important;
+    color: white;
+}
+
+.d2l-table-cell-first, .d2l-table-cell-last {
+    background-color: #606060 !important;
+    color: white;
+}
+
+.d_gc {
+    background-color: #656565 !important;
+}
+
+.d2l-link {
+    color: #0af !important;
+}
+
+
+.d2l-widget,
+.rug-background-white,
+.d2l-htmlblock,
+.js-id--widgets-container, 
+.vui-active,
+.vui-selected {
+    background-color: #383838 !important;
+}
+
+.accent-outline {
+    background-color: #898989 !important;
+}
+
+d2l-navigation-band {
+    color: #232323 !important;
+}
+
+.d2l-branding-navigation-background-color,
+.d2l-navigation-s-main-wrapper {
+    background-color: rgb(222,0,45) !important;
+}
+
+d2l-navigation-header-container,
+.d2l-navigation-s {
+    background-color: #454545 !important;
+    color: white !important;
+}
+
+.d2l-navigation-s-link {
+    color: white !important;
+}
+
+}

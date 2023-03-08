@@ -130,4 +130,12 @@ d2l-navigation-header-container,
     color: white !important;
 }
 
+.d2l-le-disc-post {
+    background-color: #606060 !important;
+}
+
+.d2l-table > tbody {
+    background-color: #606060 !important;
+}
+
 }

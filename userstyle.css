@@ -1,4 +1,3 @@
-@-moz-document domain("brightspace.rug.nl") {
 .d2l-body,
 #d2l_body,
 .d2l-shim {
@@ -138,4 +137,17 @@ d2l-navigation-header-container,
     background-color: #606060 !important;
 }
 
+.dfl > a > img {
+    filter: invert(1);
+}
+.di_i {
+    color: yellow;
+}
+
+.d2l-courseselector-wrapper, #d2l-dropdown-wrapper {
+    background-color: #303030 !important;
+}
+
+button:hover {
+    font-weight: bold !important;
 }
